@@ -8,5 +8,9 @@ public class Kiralynok {
         //4.feladat
         System.out.println("4. feladat");
         tabla.megjelenit();
+        //6.feladat
+        System.out.println("6. feladat");
+        tabla.elhelyez(8);
+        tabla.megjelenit();
     }
 }
